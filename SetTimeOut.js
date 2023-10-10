@@ -6,6 +6,7 @@ const heading5 = document.querySelector(".heading5");
 const heading6 = document.querySelector(".heading6");
 const heading7 = document.querySelector(".heading7");
 
+//hhkjkh
 /*Task is to change the above Text color in some Time
 
 Text         delay      color
